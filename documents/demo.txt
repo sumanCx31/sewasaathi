@@ -1,0 +1,10 @@
+DEMO DOCUMENT — NOT AN OFFICIAL GOVERNMENT RULE
+
+This example is only for testing the SewaSathi
+document retrieval system.
+
+The fictional Demo Service requires a blue form
+and a sample receipt.
+
+These requirements are invented for software testing
+and must not be treated as real government requirements.
