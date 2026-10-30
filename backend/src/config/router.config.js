@@ -1,4 +1,5 @@
 const authRouter = require("../modules/auth/auth.router");
+const HamroSewaRouter = require("./../hamrosewa/route");
 
 const router = require("express").Router()
 router.get("/",(req, res, next) => {
@@ -11,5 +12,6 @@ router.get("/",(req, res, next) => {
 })
 
 router.use("/auth",authRouter);
+router.use("/hamrosewa", HamroSewaRouter);
 
 module.exports = router;
