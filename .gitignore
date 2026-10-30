@@ -1,3 +1,20 @@
+# Environment variables
 backend/.env
 frontend/.env
 ai-service/.env
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Other
+.DS_Stores
